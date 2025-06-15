@@ -2902,7 +2902,7 @@ async def advantage_spell_chok(client, name, msg, reply_msg, vj_search):
                 break
         reqst_gle = mv_rqst.replace(" ", "+")
         button = [[
-            InlineKeyboardButton("REQUEST HERE", url=f"https://t.me/bolomotu{reqst_gle}")
+            InlineKeyboardButton("REQUEST HERE", url=f"https://t.me/bolomotu)
         ]]
         if NO_RESULTS_MSG:
             await client.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, mv_rqst)))
