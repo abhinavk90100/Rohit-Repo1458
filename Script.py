@@ -208,7 +208,7 @@ This Movie Not Found in Database
 ⭕️ Search in Google for Correct Spelling & Try Again ✅ 
 
 Request for This Movie to admin  👇
-🚯➠ @bolomotu </b>"""
+🚯➠ @filmgroup7 </b>"""
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
@@ -220,7 +220,7 @@ Request for This Movie to admin  👇
 ⭕️ Search in Google for Correct Spelling & Try Again ✅ 
 
 Request for This Movie to admin  👇
-🚯➠ @bolomotu..."""
+🚯➠ @filmgroup7..."""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
